@@ -7,7 +7,7 @@ function bienvenido(){
 function eliminar(elemento){
     //console.log(elemento);
     elemento.remove();
-    confirm("¿Seguro que quieres cerrar secion?");
+    confirm("¿Seguro que quieres cerrar sesion?");
     /*
     elemento.style.visibility = "hidden"; -> esconde
     */
